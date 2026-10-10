@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T20:33:59+09:00",
+  "generatedAt": "2026-10-11T02:21:17+09:00",
   "source": "https://dhlottery.co.kr/lt645/selectPstLt645Info.do",
   "startRound": 1,
-  "endRound": 1244,
-  "drawCount": 1244,
+  "endRound": 1245,
+  "drawCount": 1245,
   "draws": [
     {
       "round": 1,
@@ -19909,6 +19909,22 @@
       "firstPrizeAmount": 1604686625,
       "firstPrizeWinners": 18,
       "firstPrizeTotal": 28884359250
+    },
+    {
+      "round": 1245,
+      "drawDate": "2026-10-10",
+      "numbers": [
+        4,
+        5,
+        25,
+        28,
+        32,
+        42
+      ],
+      "bonus": 12,
+      "firstPrizeAmount": 3006515775,
+      "firstPrizeWinners": 10,
+      "firstPrizeTotal": 30065157750
     }
   ]
 }
